@@ -1,0 +1,2 @@
+const lista = ["Mishelis", 21, true, new Date(2001, 3, 18), null]
+console.log(lista);
